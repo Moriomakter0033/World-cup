@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Poppins:wght@400;500&display=swap');
+/*the gretest show*/
+body{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    color: aliceblue;
+    font-size: 20px;
+  
+
+}
+
+
+.great-show{
+    background-color: #161616;
+    border-radius: 30px;
+    width:70%;
+    height: 646px;
+    width: 1321px;
+    margin-left: 50px;
+    margin-top: 40px;
+    display: flex;
+}
+.great-show img{
+    height: 613px;
+    width: 581px;
+}
+.first-part{
+    margin:50px;
+    padding:20px;
+
+}
+.link-type{
+    color:white;
+    text-decoration: none;
+    background-color:#DD0000 ;
+    border-radius: 10px;
+    margin-top:30px;
+    padding:16px 25px 16px 25px;
+    font-weight: 700;   
+}
+/*transfer*/
+
+.link-type-2{
+    display:grid;
+    justify-content: center;
+    row-gap: 20px;
+    background-color: #161616;
+    height:350px;
+    width:300px;
+   
+    border-radius: 15px;
+    
+}
+
+.match-1{
+    text-decoration: none;
+    color:black;
+    background-color:#DD0000;
+    margin-top: 40px;
+    text-align: center;
+    padding: 15px 20px 15px 20px;
+    border-radius: 10px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.match{
+    text-decoration: none;
+    color:black;
+    background-color: azure;
+    text-align: center;
+    padding: 15px 20px 15px 20px;
+    border-radius: 10px;
+    font-weight: 700;
+    margin-bottom: 40px;
+}
+.flex{
+    display:flex;
+    row-gap: 10px;
+    margin-top: 50px;
+    margin-left: 60px; 
+    padding:20px; 
+}
+.container{
+    background-color:rgb(241, 252, 252);
+    width: 300px;
+    height:250px;
+    border-radius: 15px;
+    margin-left: 20px;
+    
+   
+}
+.germany-vs-france{
+    color:black;
+    display: flex;
+    margin-top:40px;
+    margin-left: 30px;
+   
+}
+.h3-p-tag{
+    color:black;
+    margin-left:30px;
+    margin-bottom: 10px;
+}
+.container-flex{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    row-gap: 20px;
+    column-gap: 10px;   
+
+}
+footer{
+    background-color: black;
+    text-align: center;
+    height: 500px;
+
+
+}
+#goal h2{
+
+padding-top: 100px;
+padding-bottom: 40px;
+
+}
+#footer-contect{
+    margin-top: 100px;
+}
+.contact{
+
+text-decoration: none;
+color: beige;
+padding:40px;
+
+}
+
+
+
+   
+   
+
+
+
+
+    
+
+
+   
+    
+
+
+    
+    
+   
