@@ -68,14 +68,14 @@ footer{
 /*transfer*/
 
 .link-type-2{
-    display:grid;
+    display: grid;
     justify-content: center;
-    row-gap: 20px;
+   
     background-color: #161616;
-    height:350px;
-    width:300px;
+    height:400px;
+    width:400px;
     margin:50px;
-    border-radius: 15px;
+    border-radius: 20px;
     
 }
 .match{
@@ -85,18 +85,18 @@ footer{
     margin-top: 30px;
     text-align: center;
     padding: 10px 15px 10px 15px;
-    border-radius: 10px;
+    border-radius: 20px;
     font-weight: 700;
 }
 .match-1{
     text-decoration: none;
     color:black;
     background-color:#DD0000;
-    margin-top: 30px;
+    margin-top: 40px;
     text-align: center;
-    padding: 10px 20px 10px 20px;
-    border-radius: 10px;
-    margin-bottom: 30px;
+    padding:  10px 15px 10px 15px;
+    border-radius: 20px;
+    margin-bottom: 40px;
     font-weight: 700;
 }
 /*2nd part*/
